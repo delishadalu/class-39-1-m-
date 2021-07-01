@@ -8,7 +8,8 @@ function setup(){
   console.log(database);
   createCanvas(500,500);
 
- 
+ form= new Form()
+  form.display()
   
 }
 
